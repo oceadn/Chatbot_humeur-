@@ -13,4 +13,4 @@ Le programme interagit avec l’utilisateur en fonction de son humeur ou de ses 
 Il s’agit d’un projet évolutif qui sera enrichi au fur et à mesure (dialogues, IA, etc.).
 
 ## Langage utilisé
-- Python 3.8+
+Python 3.8+
